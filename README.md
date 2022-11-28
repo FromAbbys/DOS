@@ -13,4 +13,4 @@ Uso e Instalacao
 
 Agora é somente necessario:
 
-./dos <IP DO ALVO> 
+```./dos <IP DO ALVO>```
